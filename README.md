@@ -5,3 +5,7 @@ Keep track of small restaurant sales using this lightweight application
 -Fixed item display issue
 -full persistence on all items/data
 -minor bux fixes
+
++Future Work+
+-Make a more appealing GUI
+-Fix some display issues (popup windows, etc.)
